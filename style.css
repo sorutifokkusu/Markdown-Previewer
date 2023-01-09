@@ -1,0 +1,25 @@
+#preview{
+    background-color: rgb(230, 230, 255);
+}
+body{
+    background-color: rgb(204, 204, 255);
+    
+}
+#headerr{
+    background-color:rgb(153, 255, 204);
+}
+.h3s{
+    background-color: rgb(153, 255, 204);
+}
+#editor{
+    background-color: rgb(230, 230, 255);
+    height:30vh;
+}
+
+
+/* green 80 rgb(153, 255, 204);
+green 85 rgb(179, 255, 217)
+green 90 rgb(204, 255, 230)
+
+
+*/
